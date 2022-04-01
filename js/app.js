@@ -4,7 +4,7 @@ var app = new Framework7({
   root: '#app', // App root element
 
 
-  name: 'Jailbreaks', // App name
+  name: 'rebostore', // App name
   theme: 'ios', // Automatic theme detection
 
   // App root data
