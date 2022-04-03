@@ -49,6 +49,17 @@
 						<div class="navbar navbar-large">
 							<div class="navbar-bg"></div>
 							<div class="navbar-inner">
+                                                        <div class="left">
+                                                               <script>
+                                                                      var today = new Date();
+                                                                      var dd = String(today.getDate()).padStart(2, '0');
+                                                                      var mm = String(today.getMonth() + 1).padStart(2, '0');
+                                                                      var yyyy = today.getFullYear();
+
+                                                                      today = dd + '/' + mm + '/' + yyyy;
+                                                                      document.write(today);
+                                                               </script>
+                                                         </div>
 								<div class="title sliding">ڕێبۆ ستۆر</div>
 								<div class="title-large">
 									<div class="title-large-text" style="text-align: right;">ڕێبۆ ستۆر</div>
