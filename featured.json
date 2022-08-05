@@ -29,6 +29,17 @@
     "web": "no",
     "category": "Hacked Games"
   },
+
+  {
+    "id": "12",
+    "title": "Rebo",
+    "icon": "N/A",
+    "developer": "Respawn Entertainment",
+    "link": "N/A",
+    "description": "Apex Legends for iOS!",
+    "web": "no",
+    "category": "Games"
+  },
   {
     "id": "10",
     "title": "Apex_Legends",
